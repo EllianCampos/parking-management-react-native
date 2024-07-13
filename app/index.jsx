@@ -34,8 +34,8 @@ const styles = StyleSheet.create({
   },
   image: {
     width: '100',
-    margin: 30,
-    padding: 50
+    margin: 20,
+    padding: 30
   }, 
   link: {
     backgroundColor: colors.appColorPrimary,
